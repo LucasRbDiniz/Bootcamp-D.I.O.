@@ -1,5 +1,8 @@
-body{
+*{
+    padding: 5px;
     
+}
+body{
     background-image: url(background-site.jpg);
     font-family: Verdana;
     max-width: 900px;
